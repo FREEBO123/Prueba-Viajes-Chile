@@ -26,7 +26,7 @@ footer{background-color: aqua;
 color: white;
 }
 
-nav{background-color: transparent;}
+.navbar{background-color: rgb(43, 154, 166) !important;}
 
 #carouselExample{padding-bottom: 10%;
 }
